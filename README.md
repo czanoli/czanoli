@@ -14,7 +14,7 @@ The projects you will find here revolve around:
   - **BSc University of Modena and Reggio Emilia**: Computer Engineering
     - Thesis: _Unsupervised Machine Learning for Mental Fatigue Detection: Toward Personalized Fatigue-Aware Models for Industry 5.0_
 
- ### 🎓 Publications
+ ### 📚 Publications
   - \[1\] **Christopher Zanoli, Valeria Villani and Marco Picone**. "The Road to Industry 5.0: The Challenges of Human Fatigue Modeling". In _2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)_. IEEE.
   - \[2\] **Christopher Zanoli, Valeria Villani and Marco Picone**, "Social Sustainability in Industry 5.0: The Need for Personalized Fatigue Detection". In _Socially acceptable robots: concepts, techniques, and applications workshop at ICRA 2023_.
 
