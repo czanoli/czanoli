@@ -23,7 +23,7 @@ If you are also passionate about these topics, please feel free to connect with 
 
 ### 📌Pinned
  <p align="left">
- <a href="https://github.com/czanoli/ETH-Information-Security-Lab-2023"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=czanoli&repo=ETH-Information-Security-Lab-2023&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="ETH-Information-Security-Lab-2023"></a>
+ <a href="https://github.com/czanoli/ETH-Information-Security-Lab-2023"><img width="278" alt="ETH-Information-Security-Lab-2023"></a>
 </p>
 
 <!--
