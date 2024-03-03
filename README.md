@@ -12,7 +12,7 @@ The projects you will find here revolve around:
  ### 🎓 Education
   - **MSc ETH Zurich**: Computer Science
   - **BSc University of Modena and Reggio Emilia**: Computer Engineering
-    - Bachelor's Thesis: _Unsupervised Machine Learning for Mental Fatigue Detection: Toward Personalized Fatigue-Aware Models for Industry 5.0_
+    - BSc's Thesis: _Unsupervised Machine Learning for Mental Fatigue Detection: Toward Personalized Fatigue-Aware Models for Industry 5.0_
 
  ### 🎓 Publications
   - \[1\] **Christopher Zanoli, Valeria Villani and Marco Picone**. "The Road to Industry 5.0: The Challenges of Human Fatigue Modeling". In _2023 IEEE International Conference on Systems, Man, and Cybernetics (SMC)_. IEEE.
