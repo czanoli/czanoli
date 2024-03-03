@@ -1,6 +1,4 @@
-### Hi there 👋
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=9FAAAD&width=700&height=84&lines=Hello!+This+is+Chris's+GitHub%2C+have+fun+exploring!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=2000&color=9FAAAD&width=800&height=84&lines=Hello!+This+is+Chris's+GitHub%2C+have+fun+exploring!)](https://git.io/typing-svg)
 
 My GitHub covers some of my projects from my academic studies at [ETH Zurich](https://ethz.ch/en.html), free time, or side projects. Naturally, projects from my professional experiences or theses with industry partners cannot be found here due to non-disclosure agreements. 
 
