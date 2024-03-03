@@ -21,13 +21,15 @@ The projects you will find here revolve around:
 ### 💬 Reach Out 
 If you are also passionate about these topics, please feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/christopher-zanoli/).
 
+<!--
 ### 📌Pinned
  <p align="left">
-   <a href="https://github.com/czanoli/ETH-Information-Security-Lab-2023"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=czanoli&repo=ETH-Information-Security-Lab-2023&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="ETH-Information-Security-Lab-2023"></a>
-   <a href="https://github.com/czanoli/AI-Mental-Fatigue-Detection-Project"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=czanoli&repo=AI-Mental-Fatigue-Detection-Project&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI-Mental-Fatigue-Detection-Project"></a>
-   <a href="https://github.com/czanoli/ETH-Computer-Vision-2023"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=czanoli&repo=ETH-Computer-Vision-2023&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="ETH-Computer-Vision-2023"></a>
-   <a href="https://github.com/czanoli/IoT-Healthcare-Project"><img width="417" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=czanoli&repo=IoT-Healthcare-Project&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="IoT-Healthcare-Project"></a>
+   <a href="https://github.com/czanoli/ETH-Information-Security-Lab-2023"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=czanoli&repo=ETH-Information-Security-Lab-2023&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="ETH-Information-Security-Lab-2023"></a>
+   <a href="https://github.com/czanoli/AI-Mental-Fatigue-Detection-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=czanoli&repo=AI-Mental-Fatigue-Detection-Project&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="AI-Mental-Fatigue-Detection-Project"></a>
+   <a href="https://github.com/czanoli/ETH-Computer-Vision-2023"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=czanoli&repo=ETH-Computer-Vision-2023&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="ETH-Computer-Vision-2023"></a>
+   <a href="https://github.com/czanoli/IoT-Healthcare-Project"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=czanoli&repo=IoT-Healthcare-Project&theme=react&bg_color=1F222E&title_color=0096FF&hide_border=true&icon_color=F8D866&show_icons=false" alt="IoT-Healthcare-Project"></a>
 </p>
+-->
 
 <!--
 **czanoli/czanoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
